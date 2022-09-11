@@ -13,5 +13,6 @@ comments = [
   '"Наша история уже тянется с 2018 года" © Zen',
   '"Чтите других так же, как и себя." © Zen',
   '"Соблюдайте Discord ToS." © Zen',
-  '"Yep and Nope" © Roskiy'
+  '"Yep and Nope" © Roskiy',
+  '"#freetyan" © timka123'
 ]
